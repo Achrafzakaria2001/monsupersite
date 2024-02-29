@@ -2,7 +2,7 @@
 title: Mon super site
 ---
 
-# Acceuil
+# Intro
 
 - [Page d'acceuil](index.md)
 - [Introduction](intro.md)
